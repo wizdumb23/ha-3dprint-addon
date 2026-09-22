@@ -38,7 +38,7 @@ wrapping headless [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer). It's in
 4. Check `http://<HOME_ASSISTANT_HOST>:3003/health` to confirm it's running.
 
 ## Support
-- If you encounter any issues, please open an issue on the [dmuth23/ha-3dprint-addon GitHub repository](https://github.com/dmuth23/ha-3dprint-addon/issues).
+- If you encounter any issues, please open an issue on the [wizdumb23/ha-3dprint-addon GitHub repository](https://github.com/wizdumb23/ha-3dprint-addon/issues).
 - Include your add-on logs and a brief description of the problem.
 
 <!--
@@ -47,4 +47,4 @@ Assets
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [version]: https://img.shields.io/badge/version-v1.0.0-blue.svg
-[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/dmuth23/ha-3dprint-addon
+[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/wizdumb23/ha-3dprint-addon

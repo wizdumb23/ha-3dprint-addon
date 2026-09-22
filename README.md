@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dmuth23/ha-3dprint-addon/blob/main/logo.png?raw=true" alt="ha-3dprint-addon Logo" width="300">
+  <img src="https://github.com/wizdumb23/ha-3dprint-addon/blob/main/logo.png?raw=true" alt="ha-3dprint-addon Logo" width="300">
 </p>
 
 # 🖨️ ha-3dprint-addon — 3D Printing Add-ons for Home Assistant
@@ -14,10 +14,10 @@
   Self-hosted command center for Bambu Lab &mdash; from one A1 to a 40-printer farm.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/dmuth23/ha-3dprint-addon/main/bambuddy/config.yaml&query=$.version&label=bambuddy%20stable&color=blue">
-  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/dmuth23/ha-3dprint-addon/main/bambuddy-beta/config.yaml&query=$.version&label=bambuddy%20beta&color=orange">
-  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/dmuth23/ha-3dprint-addon/main/bambuddy-daily/config.yaml&query=$.version&label=bambuddy%20daily&color=purple">
-  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/dmuth23/ha-3dprint-addon/main/spoolman/config.yaml&query=$.version&label=spoolman&color=teal">
+  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/wizdumb23/ha-3dprint-addon/main/bambuddy/config.yaml&query=$.version&label=bambuddy%20stable&color=blue">
+  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/wizdumb23/ha-3dprint-addon/main/bambuddy-beta/config.yaml&query=$.version&label=bambuddy%20beta&color=orange">
+  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/wizdumb23/ha-3dprint-addon/main/bambuddy-daily/config.yaml&query=$.version&label=bambuddy%20daily&color=purple">
+  <img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/wizdumb23/ha-3dprint-addon/main/spoolman/config.yaml&query=$.version&label=spoolman&color=teal">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/aarch64-yes-green.svg">
@@ -51,13 +51,13 @@
 
 Click the button below to automatically add the repository to Home Assistant:
 
-[![Add Repository to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/dmuth23/ha-3dprint-addon)
+[![Add Repository to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/wizdumb23/ha-3dprint-addon)
 
 Or add it manually:
 
 1. In Home Assistant, go to **Settings → Add-ons → Add-on Store**
 2. Click the three-dot menu → **Repositories**
-3. Add `https://github.com/dmuth23/ha-3dprint-addon`
+3. Add `https://github.com/wizdumb23/ha-3dprint-addon`
 
 Once the repository is added, install whichever add-ons you need from the list above and follow each one's configuration steps.
 
@@ -100,4 +100,4 @@ I am not affiliated with either upstream project, so I'm unable to provide suppo
 👉 **[github.com/maziggy/bambuddy](https://github.com/maziggy/bambuddy)**
 👉 **[github.com/Donkie/Spoolman](https://github.com/Donkie/Spoolman)**
 
-Support provided here is limited to the **add-on packaging and installation** — please [open an issue](https://github.com/dmuth23/ha-3dprint-addon/issues) on this repo for packaging-related problems.
+Support provided here is limited to the **add-on packaging and installation** — please [open an issue](https://github.com/wizdumb23/ha-3dprint-addon/issues) on this repo for packaging-related problems.

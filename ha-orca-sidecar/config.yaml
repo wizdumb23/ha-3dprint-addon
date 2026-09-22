@@ -3,7 +3,7 @@ name: OrcaSlicer Sidecar
 version: "1.0.0"
 slug: orca_slicer_sidecar
 description: REST API sidecar wrapping OrcaSlicer for slicing 3MF/STL files to G-code — used by BambuBuddy as an external slicer backend.
-url: "https://github.com/dmuth23/ha-3dprint-addon"
+url: "https://github.com/wizdumb23/ha-3dprint-addon"
 arch:
   - amd64
 startup: services

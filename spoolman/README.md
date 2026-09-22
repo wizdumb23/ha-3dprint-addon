@@ -56,7 +56,7 @@ This add-on is based on [Spoolman](https://github.com/Donkie/Spoolman).
 | **Database not updating** | Corrupted SQLite database | Backup and remove `/config/spoolman.db`, then restart the add-on to recreate the database. |
 
 ## Support
-- If you encounter any issues, please open an issue on the [dmuth23/ha-3dprint-addon GitHub repository](https://github.com/dmuth23/ha-3dprint-addon/issues).  
+- If you encounter any issues, please open an issue on the [wizdumb23/ha-3dprint-addon GitHub repository](https://github.com/wizdumb23/ha-3dprint-addon/issues).  
 - Include your add-on logs (`addon_config/<slug>/addon_log/spoolman.log` and `Log from addon page`) and a brief description of the problem.  
 - This helps to diagnose and fix problems faster.
 
@@ -73,5 +73,5 @@ Assets
 [Spoolman-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [version]: https://img.shields.io/badge/version-v0.23.1--0-blue.svg
 [Spoolman-update-shield]: https://img.shields.io/badge/Updated%20on-2026--02--08-blue.svg
-[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/dmuth23/ha-3dprint-addon
-[preview]: https://raw.githubusercontent.com/dmuth23/ha-3dprint-addon/refs/heads/main/spoolman/preview.png
+[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/wizdumb23/ha-3dprint-addon
+[preview]: https://raw.githubusercontent.com/wizdumb23/ha-3dprint-addon/refs/heads/main/spoolman/preview.png

@@ -78,4 +78,4 @@ This project uses **Forge** for non-trivial work — the framework at
 captures the conversation, frames it into a pieces-board (HAVE/BUILD/UNKNOWN) + a
 quantifiable goal, runs an advisor-refined interview, freezes a spec, then builds +
 verifies. Efforts land in `efforts/<slug>/` here and mirror to
-`~/projects/claude-harness-loop/efforts/`. (Forge supersedes specforge.)
+`~/projects/brain/projects/ha-3dprint-addon/efforts/<slug>/`. (Forge supersedes specforge.)
